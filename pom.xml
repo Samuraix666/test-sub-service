@@ -13,8 +13,6 @@
     <groupId>com.example</groupId>
     <artifactId>user-subscription-service</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>User Subscription Service</name>
-    <description>Microservice for managing users and subscriptions</description>
 
     <properties>
         <java.version>17</java.version>
